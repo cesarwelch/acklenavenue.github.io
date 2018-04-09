@@ -130,16 +130,13 @@
 	  "quote":"Acklen Avenue!"
 	},
 	{
-	  "name":"Krista",
-	  "lastName":"David",
-	  "gravatarEmail": "krista@acklenavenue.com",
-	  "position":"Designers",
+	  "name":"Christian",
+	  "lastName":"Garcia",
+	  "gravatarEmail": "cristian.g@acklenavenue.com",
+	  "position":"Recruiter",
 	  "location":"Tegucigalpa, Honduras",
-	  "department": ["All Ackleners", "Designers"],
-	  "facebook":"https://www.facebook.com/Kris2david",
-	  "twitter":"https://twitter.com/KrisstaDavid",
-	  "github":"https://github.com/krisstad2",
-	  "linkedin":"https://www.linkedin.com/in/krista-david-85349070/",
-	  "quote":"May the Force be with you, Acklen Avenue!"
+	  "department": ["All Ackleners", "Human Resources"],
+	  "github":"https://github.com/Cristian1977",
+	  "quote":"Live what you haven't!"
 	}
 ]
